@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The examinations, arraignment & conuiction of George Sprot, notary in Aye-mouth together with his co
+
+1. A PREFACE to the Reader.
+
 #####Body#####
-The examinations, arraignment & conuiction of George Sprot, notary in Aye-mouth together with his co
+
+1. THE EXAMINATIONS, ARRAIGNMENT, AND Conuiction of George Sprot, Notary in Aye-mouth: Together with his constant and extraordinarie behauior at his death in Edenborough, August 12. 1608.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
